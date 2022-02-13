@@ -1,0 +1,14 @@
+{
+  "name": "lej/cli",
+  "version": "0.1",
+  "type": "project",
+  "autoload": {
+    "psr-4": {
+      "Lej\\Com\\De\\BikeBuild\\": "src/Lej/Com/De/BikeBuild"
+    }
+  },
+  "require": {
+    "ext-curl": "*",
+    "moneyphp/money": "^4.0"
+  }
+}
