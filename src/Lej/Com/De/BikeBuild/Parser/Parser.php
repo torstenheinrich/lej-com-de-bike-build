@@ -19,6 +19,7 @@ class Parser
         while (!$file->eof()) {
             $line = trim(str_replace(["\r", "\n"], '', $file->fgets()));
             if (!strlen($line)) continue;
+            if (str_starts_with($line, '--')) continue; // comments
             $results[] = $this->parseLine($line);
         }
 
