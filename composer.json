@@ -7,8 +7,12 @@
       "Lej\\Com\\De\\BikeBuild\\": "src/Lej/Com/De/BikeBuild"
     }
   },
+  "config": {
+    "platform-check": false
+  },
   "require": {
     "ext-curl": "*",
+    "fabpot/goutte": "^4.0",
     "moneyphp/money": "^4.0"
   }
 }

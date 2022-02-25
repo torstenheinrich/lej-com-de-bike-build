@@ -4,6 +4,7 @@ require_once './vendor/autoload.php';
 
 use Lej\Com\De\BikeBuild\ExchangeRate\FixerIoExchangeRateClient;
 use Lej\Com\De\BikeBuild\Parser\Parser;
+use Lej\Com\De\BikeBuild\Renderer\AvailabilityRenderer;
 use Lej\Com\De\BikeBuild\Renderer\ItemRenderer;
 use Lej\Com\De\BikeBuild\Renderer\PriceRenderer;
 use Lej\Com\De\BikeBuild\Renderer\WeightRenderer;
@@ -25,4 +26,7 @@ $renderer = new WeightRenderer();
 $renderer->render($lineItems);
 
 $renderer = new ItemRenderer();
+$renderer->render($lineItems);
+
+$renderer = new AvailabilityRenderer();
 $renderer->render($lineItems);

@@ -2,7 +2,7 @@ n: mason resolution frameset, s: 52, co:shutter black, c: frame, w: 2610, u: htt
 n: steuersatz/kabel/etc., c: frame, w: 200
 
 n: light bicycle falcon pro ar35 disc, c: wheels, w: 1328, u: https://www.lightbicycle.com/700C-tubeless-bicycle-wheels-28mm-wide-35mm-deep-clincher-for-cyclocross-road-and-gravel-bikes.html, p: 718.96
-n: pirelli p-zero race faltreifen, s: 28-622, c: wheels, w: 225, u: https://www.bike24.de/p1457382.html, p: 54.99, a: 2
+n: pirelli p-zero race faltreifen, s: 28-622, c: wheels, w: 225, u: https://www.bike24.de/p1457382.html, p: 49.99, a: 2
 n: pirelli p-zero smartube, c: wheels, w: 35, a: 2
 n: dt swiss felgenband, s: 25mm, c: wheels, p: 15.99
 n: mason thru axle, c: wheels, w: 40, a: 2
@@ -17,12 +17,12 @@ n: lizard skins dsp v2 lenkerband, s: 2.5mm, co: jet black, c: attachments, w: 7
 
 n: sram rival 1 wide kurbel, s: 40/172.5, c: group, w: 703, u: https://www.bike24.de/p1464290.html, p: 125.99
 n: sram rival axs leistungsmesser, c: group, w: 45, u: https://www.bike24.de/p1464328.html, p: 194.99
-n: sram rival axs schaltwerk, c: group, w: 366, u: https://www.bike24.de/p1440223.html, p: 209.99
+n: sram rival axs schaltwerk, c: group, w: 366, u: https://www.bike24.de/p1440223.html, p: 199.99
 n: sram rival axs schalthebel, c: group, w: 425, u: https://www.bike24.de/p1440424.html, p: 199.99
 n: sram rival axs schalthebel, c: group, w: 425, u: https://www.bike24.de/p1440372.html, p: 199.99
 n: sram centerline x bremsscheibe, c: group, w: 102, u: https://www.bike24.de/p1224242.html, p: 45.99, a: 2
 n: sram rival xg-1250 kassette, s: 10-30, c: group, w: 282, u: https://www.bike24.de/p1464280.html, p: 105.99
-n: sram rival kette, c: group, w: 266, u: https://www.bike24.de/p1440426.html, p: 28.99
+n: sram rival kette, c: group, w: 266, u: https://www.bike24.de/p1440426.html, p: 24.99
 n: sram dub bsa-68 wide lagerschalen, c: group, w: 75, u: https://www.bike24.de/p1380948.html, p: 32.99
 
 n: shimano dura ace pd-r9100 spd-sl pedale, c: other, w: 234, u: https://www.bike24.de/p1185834.html, p: 189.99
