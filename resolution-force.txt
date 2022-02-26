@@ -1,0 +1,31 @@
+n: mason resolution frameset, s: 52, co:shutter black, c: frame, w: 2610, u: https://masoncycles.cc/products/resolution-frameset, p: 1595.00, cu: GBP, t: 19
+n: steuersatz/kabel/etc., c: frame, w: 200
+
+n: light bicycle falcon pro ar35 disc, c: wheels, w: 1328, u: https://www.lightbicycle.com/700C-tubeless-bicycle-wheels-28mm-wide-35mm-deep-clincher-for-cyclocross-road-and-gravel-bikes.html, p: 718.96
+n: pirelli p-zero race faltreifen, s: 28-622, c: wheels, w: 225, u: https://www.bike24.de/p1457382.html, p: 49.99, a: 2
+n: pirelli p-zero smartube, c: wheels, w: 35, a: 2
+n: dt swiss felgenband, s: 25mm, c: wheels, p: 15.99
+n: mason thru axle, c: wheels, w: 40, a: 2
+n: sram torx 25 schrauben, s: 15mm, c: wheels, w: 5, u: https://www.bike24.de/p1207390.html, p: 5.99, a: 2
+n: sram torx 25 schrauben, s: 22mm, c: wheels, w: 5, u: https://www.bike24.de/p1207390.html, p: 5.99, a: 2
+
+n: deda superleggera lenker, s: 42cm, co: polish on black, c: attachments, w: 185, u: https://www.bike24.de/p1364198.html, p: 209.99
+n: deda superleggera vorbau, s: 100mm, co: polish on black, c: attachments, w: 115, u: https://www.bike24.de/p1364172.html, p: 109.99
+n: deda superleggera sattelstuetze, s: 27.2mm/0mm, co: polish on black, c: attachments, w: 185, u: https://www.bike24.de/p1364282.html, p: 169.99
+n: prologo scratch m5 pas nack sattel, co: black, c: attachments, w: 129, u: https://www.bike24.de/p1361139.html, p: 179.99
+n: lizard skins dsp v2 lenkerband, s: 2.5mm, co: jet black, c: attachments, w: 74, u: https://www.bike24.de/p1374901.html
+
+n: sram force 1 wide kurbel, s: 40/172.5, c: group, w: 598, u: https://www.bike24.de/p1440591.html, p: 249.99
+n: sram axs power meter, c: group, w: 162, u: https://www.bike24.de/p1333165.html, p: 349.99
+n: sram force axs schaltwerk, c: group, w: 314, u: https://www.bike24.de/p1382748.html, p: 324.99
+n: sram force axs schalthebel, c: group, w: 398, u: https://www.bike24.de/p1335420.html, p: 229.99
+n: sram force axs schalthebel, c: group, w: 398, u: https://www.bike24.de/p1341528.html, p: 229.99
+n: sram centerline x bremsscheibe, c: group, w: 102, u: https://www.bike24.de/p1224242.html, p: 45.99, a: 2
+n: sram force xg-1270 kassette, s: 10-30, c: group, w: 268, u: https://www.bike24.de/p1464217.html, p: 183.99
+n: sram force kette, c: group, w: 260, u: https://www.bike24.de/p1313609.html, p: 28.99
+n: sram dub bsa-68 wide lagerschalen, c: group, w: 75, u: https://www.bike24.de/p1380948.html, p: 32.99
+
+n: shimano dura ace pd-r9100 spd-sl pedale, c: other, w: 234, u: https://www.bike24.de/p1185834.html, p: 189.99
+n: light bicycle carbon water bottle cage, c: other, w: 19, u: https://www.lightbicycle.com/C01-carbon-water-bottle-cage.html, p: 15.83, a: 2
+
+n: park tool bbt-79, c: tools, u: https://www.bike24.de/p1149028.html, p: 25.99

@@ -15,12 +15,6 @@ class AvailabilityRenderer implements Renderer
 
         foreach ($lineItems as $item) {
             $url = $item->vendor()->url();
-            if ($url) {
-                $crawler = $client->request('GET', $url);
-                $crawler->filter('p.price__value')->each(function ($node) {
-                    echo $node->text() . PHP_EOL;
-                });
-            }
         }
 
         echo PHP_EOL;
