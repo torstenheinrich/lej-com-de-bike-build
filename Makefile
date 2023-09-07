@@ -9,3 +9,5 @@ run-resolution-force: build
 
 run-resolution-red: build
 	docker run lej-com-de-bike-build:latest run resolution-red.txt
+
+
